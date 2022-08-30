@@ -55,6 +55,23 @@ print(a*b/2)
 ![](chp1_snakify_task4.jpg)
 
 
+## Hello, Harry!
+Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.
+
+
+```.py
+# Read the name:
+name = input()
+
+# Print the result using:
+# print('Greeting', name)
+print("Hello, " + name + "!")
+```
+
+
+![](chp1_snakify_task5.jpg)
+
+
 
 
 
