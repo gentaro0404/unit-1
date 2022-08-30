@@ -38,3 +38,24 @@ print(a ** 2)
 
 ![](chp1_snakify_task3.jpg)
 
+
+## Area of right-angled triangle
+Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.
+
+
+```.py
+# Read the numbers b and h like this:
+b = int(input())
+a = int(input())
+# Print the result with print()
+print(a*b/2)
+```
+
+
+![](chp1_snakify_task4.jpg)
+
+
+
+
+
+
