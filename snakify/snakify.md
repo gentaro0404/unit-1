@@ -24,3 +24,18 @@ print("Hi " + input())
 
 
 ![](chp1_snakify_task2.jpg)
+
+
+##Square
+Statement
+Write a program that takes a number and print its square
+
+
+```.py
+a = int(input())
+print(a ** 2)
+```
+
+
+！[](chp1_snakify_task3.jpg)
+
