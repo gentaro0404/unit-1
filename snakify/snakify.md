@@ -26,8 +26,7 @@ print("Hi " + input())
 ![](chp1_snakify_task2.jpg)
 
 
-##Square
-Statement
+## Square
 Write a program that takes a number and print its square
 
 
