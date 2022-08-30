@@ -36,5 +36,5 @@ print(a ** 2)
 ```
 
 
-！[](chp1_snakify_task3.jpg)
+![](chp1_snakify_task3.jpg)
 
