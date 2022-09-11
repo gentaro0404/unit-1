@@ -72,8 +72,10 @@ print("Hello, " + name + "!")
 ![](chp1_snakify_task5.jpg)
 
 
-　##　Previous and next
+## Previous and next
 Write a program that reads an integer number and prints its previous and next numbers. See the examples below for the exact format your answers should take. There shouldn't be a space before the period.
+Remember that you can convert the numbers to strings using the function str.
+
 
 
 ```.py
@@ -87,6 +89,7 @@ print('The previous number for the number ' + str(a) + ' is ' + str(c) + '.')
 ```
 
 ![](chp1_snakify_task6.jpg) 
+
 
 
 
