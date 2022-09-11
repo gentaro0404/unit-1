@@ -106,7 +106,7 @@ Bc = int(input())
 print(Ba * 3600 + Bb * 60 + Bc - Aa * 3600 - Ab * 60 - Ac)
 ```
 
-![]
+![](chp1_snakify_task7.jpg)
 
 
 
