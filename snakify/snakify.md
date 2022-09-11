@@ -88,7 +88,8 @@ print('The next number for the number ' + str(a) + ' is ' + str(b) + '.')
 print('The previous number for the number ' + str(a) + ' is ' + str(c) + '.')
 ```
 
-![](chp1_snakify_task6.jpg) 
+![](chp1_snakify_task6.jpg.png) 
+
 
 
 
