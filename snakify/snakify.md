@@ -90,6 +90,23 @@ print('The previous number for the number ' + str(a) + ' is ' + str(c) + '.')
 
 ![](chp1_snakify_task6.jpg.png) 
 
+## Two timestamps
+A timestamp is three numbers: a number of hours, minutes and seconds. Given two timestamps, calculate how many seconds is between them. The moment of the first timestamp occurred before the moment of the second timestamp.
+
+
+```.py
+Aa = int(input())
+Ab = int(input())
+Ac = int(input())
+
+Ba = int(input())
+Bb = int(input())
+Bc = int(input())
+
+print(Ba * 3600 + Bb * 60 + Bc - Aa * 3600 - Ab * 60 - Ac)
+```
+
+![]
 
 
 
