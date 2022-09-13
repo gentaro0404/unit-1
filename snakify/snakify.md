@@ -123,7 +123,36 @@ print(a//2 + b//2 + c//2 + a % 2 + b % 2 + c % 2)
 ```
 ![](chp1_snakify_task8.jpg.png)
 
+# Chapter　2
+
+## Two digits
+Given a two-digit number, print its digits separately.
+
+```.py
+a = int(input())
+
+print(int(a/10%10),a%10)
+```
+![](chp2_snakify_task1.jpg.png)
 
 
+## Swap digits
+Given a two-digit number, swap its digits as shown in the tests below.
 
+```.py
+a = int(input())
+print(str(a % 10) + str(a // 10))
+```
+
+![](chp2_snakify_task2.jpg.png)
+
+
+## Last two digits
+Given an integer number, print its last two digits.
+```.py
+a = int(input())
+print(a%100)
+```
+
+![](chp2_snakify_task3.jpg.png)
 
