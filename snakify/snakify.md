@@ -125,6 +125,16 @@ print(a//2 + b//2 + c//2 + a % 2 + b % 2 + c % 2)
 
 # Chapter　2
 
+## Last digit of integer
+Given an integer number, print its last digit.
+
+```.py
+a = int(input())
+
+print(a%10)
+```
+![](chp2_snakify_task1.jpg.png)
+
 ## Two digits
 Given a two-digit number, print its digits separately.
 
@@ -133,7 +143,7 @@ a = int(input())
 
 print(int(a/10%10),a%10)
 ```
-![](chp2_snakify_task1.jpg.png)
+![](chp2_snakify_task2.jpg.png)
 
 
 ## Swap digits
@@ -144,15 +154,40 @@ a = int(input())
 print(str(a % 10) + str(a // 10))
 ```
 
-![](chp2_snakify_task2.jpg.png)
+![](chp2_snakify_task3.jpg.png)
 
 
 ## Last two digits
 Given an integer number, print its last two digits.
+
 ```.py
 a = int(input())
 print(a%100)
 ```
 
-![](chp2_snakify_task3.jpg.png)
+![](chp2_snakify_task4.jpg.png)
+
+## Tens digit 
+Given an interger. Print its tens digit.
+
+```.py
+a = int(input())
+
+print(a//10 %10)
+```
+
+![](chp2_snakify_task5.jpg.png)
+
+
+## Sum of digits
+Given a three-digit number.Fing the sum of its digits.
+
+```.py
+a = int(input())
+print((a//100) + (a%100-a%10)/10 + (a%10)) 
+```
+
+![](chp2_snakify_task6.jpg.png)
+
+
 
