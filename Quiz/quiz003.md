@@ -23,7 +23,7 @@ print(str(out))
 Flow Chart:
 
 
-![](003flowchart.jpg)
+![](quiz003.jpg)
 
 
 
