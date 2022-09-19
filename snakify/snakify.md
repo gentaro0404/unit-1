@@ -201,7 +201,7 @@ C = str(a//100)
 print(A+B+C)
 ```
 
-![](chp2_snakify_task７.jpg.png)
+![](chp2_snakify_task7.jpg.png)
 
 
 ## Merge two numbers
@@ -215,7 +215,7 @@ print(str(a // 10) + str(b // 10)+ str(a % 10) + str(b % 10))
 
 ```
 
-![](chp2_snakify_task８.jpg.png)
+![](chp2_snakify_task8.jpg.png)
 
 ## Cyclic rotation
 Given a four-digit integer number, perform its cyclic rotation by two digits, as shown in the tests below.
@@ -226,7 +226,7 @@ a = int(input())
 print(str(a // 10 % 10) + str(a % 10) + str(a // 1000) + str(a//100%10))
 ```
 
-![](chp2_snakify_task９.jpg.png)
+![](chp2_snakify_task9.jpg.png)
 
 ## Fractional part
 Given a positive real number, print its fractional part.
