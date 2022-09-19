@@ -265,7 +265,7 @@ M = int(input())
 print(ceil(M/N))
 ```
 
-![](chp2_snakify_task11.jpg.png)
+![](chp2_snakify_task12.jpg.png)
 
 
 ## Day of week
@@ -276,7 +276,7 @@ a = int(input())
 print((a +3)%7)
 ```
 
-![](chp2_snakify_task12.jpg.png)
+![](chp2_snakify_task14.jpg.png)
 
 ## Digital clock
 Given the integer N - the number of minutes that is passed since midnight - how many hours and minutes are displayed on the 24h digital clock?
@@ -293,7 +293,7 @@ m = s % 60
 print(h,m)
 ```
 
-![](chp2_snakify_task1４.jpg.png)
+![](chp2_snakify_task15.jpg.png)
 
 
 ## Total cost
@@ -309,7 +309,7 @@ K =((a*100 + b)*n)
 print((K // 100), ((K % 100)))
 ```
 
-![](chp2_snakify_task1６.jpg.png)
+![](chp2_snakify_task16.jpg.png)
 
 
 ## Century
@@ -320,7 +320,7 @@ a = int(input())
 print((a-1) // 100 + 1)
 ```
 
-![](chp2_snakify_task1７.jpg.png)
+![](chp2_snakify_task17.jpg.png)
 
 ## Snail
 A snail goes up A feet during the day and falls B feet at night. How long does it take him to go up H feet?
@@ -336,7 +336,7 @@ diff = A - B
 print(ceil((H - A) / (diff)) + 1)
 ```
 
-![](chp2_snakify_task1８.jpg.png)
+![](chp2_snakify_task18.jpg.png)
 
 
 ## Clock face - 1
@@ -352,7 +352,7 @@ A = A + (360 / 12 / 60 / 60 * S)
 print(A)
 ```
 
-![](chp2_snakify_task1９.jpg.png)
+![](chp2_snakify_task19.jpg.png)
 
 ## Clock face - 2
 Hour hand turned by α degrees since the midnight. Determine the angle by which minute hand turned since the start of the current hour. Input and output in this problems are floating-point numbers.
