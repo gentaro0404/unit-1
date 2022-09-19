@@ -17,10 +17,10 @@ print(f"F{floor} Room{room}")
 ```
 
 
-![](quiz008.jpg)
+![]()
 
 
 Flow Chart:
 
 
-![](008flowchart.jpg)
+![](quiz008.PNG)
