@@ -242,33 +242,6 @@ print(b)
 ![](chp2_snakify_task１０.jpg.png)
 
 
-## Fractional part
-Given a positive real number, print its fractional part.
-
-```.py
-a = float(input())
-
-b = (a%1)
-
-print(b)
-```
-
-![](chp2_snakify_task１０.jpg.png)
-
-
-
-## Fractional part
-Given a positive real number, print its fractional part.
-
-```.py
-a = float(input())
-
-b = (a%1)
-
-print(b)
-```
-
-![](chp2_snakify_task１０.jpg.png)
 
 
 ## First digit after decimal point
