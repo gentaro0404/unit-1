@@ -363,4 +363,4 @@ a = float(input())
 print(a % 30 *12)
 ```
 
-![](chp2_snakify_task２０.jpg.png)
+![](chp2_snakify_task12.jpg.png)
