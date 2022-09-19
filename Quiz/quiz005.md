@@ -22,4 +22,4 @@ print(f"Sum is equal to {sum}")
 
 
 Flow Chart:
-![](005flowchart.jpg)
+![](quiz005.jpg)
