@@ -14,7 +14,7 @@ else:
 ```
 
 
-![](quiz004.jpg)
+![](quiz-004.png)
 
 
 Flow Chart:
