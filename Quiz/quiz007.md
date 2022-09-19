@@ -17,10 +17,10 @@ for x in range(num_passwords):
 ```
 
 
-![](quiz007.jpg)
+![]()
 
 
 Flow Chart:
 
 
-![](007flowchart.jpg)
+![](quiz007.jpg)
