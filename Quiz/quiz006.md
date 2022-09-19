@@ -14,10 +14,10 @@ print(f"The code for {word} is {sum}")
 ```
 
 
-![](quiz006.jpg)
+![]()
 
 
 Flow Chart:
 
 
-![](006flowchart.jpg)
+![](quiz006.jpg)
