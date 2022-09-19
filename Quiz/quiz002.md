@@ -1,38 +1,24 @@
-# Quiz 2
-Given 2 numbers, A and B, Output TRUE if one of them is 20 or if their sum is 20.
+number_a = int(input("Enter number A"))
+number_b = int(input("Enter number B"))
+x = 'false'
 
-## Quiz answer 1
-```.py
-num1 = int(input())
-num2 = int(input())
+if number_a == 20:
+    print("number A is 20")
+    x = True
 
-if num1 == 20 or num2 == 20 or num1 + num2 == 20:
-    print(True)
+if number_b == 20:
+    print("number B is 20")
+    x = True
 
-else:
-    print(False)
-```
+if number_a + number_B == 20:
+    print("Number B+A is 20")
+    x = True
 
-## Quiz answer 2
+if number_b == 20 or number_B == 20 or number_A + number_B == 20:
+    x = True
 
+print(f"The solution is {x}”)
 
-```.py
-a = [10, 30, 10, 26]
-b = [20, 15, 5, -6]
-
-for element in a:
-    if element == 20:
-        output = True
-    else:
-        output = False
-
-for element in b:
-    if element == 20:
-        output = True
-    else:
-        output = False
-print(output)
-```
 
 Flow Chart：
 
