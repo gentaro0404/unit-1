@@ -10,7 +10,7 @@ else:
     print("FALSE")
 ```
 
-![](quiz-002)
+![](quiz-002.png)
 
 Flow Chart：
 
