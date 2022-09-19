@@ -17,7 +17,7 @@ print(f"F{floor} Room{room}")
 ```
 
 
-![]()
+![](quiz-008.png)
 
 
 Flow Chart:
