@@ -27,4 +27,4 @@ print(f"The solution is {x}”)
 
 Flow Chart：
 
-![]（quiz002 .jpeg)
+![]（quiz002.jpeg)
