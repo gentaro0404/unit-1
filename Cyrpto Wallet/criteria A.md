@@ -15,7 +15,7 @@ An example of the data stored is
 ## Proposed Solution
 
 Design statement:
-I will to design and make a ———— for a client who is ———. The ——– will about ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
+Design statement: I will to design and make a digital ledger for a client who is Mr. Sato. The  will about storing transactions regarding cryptocurrency and is constructed using the software Python. It will take until Project Week to make and will be evaluated according to the criteria below.
 
 ** add a description of your coin and citation **
 | Group 1   |              |   | Group  2  |           |
