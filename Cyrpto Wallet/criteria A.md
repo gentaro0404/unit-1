@@ -38,7 +38,7 @@ I will to design and make a ———— for a client who is ———. The —�
 |           |              |   | Pop       | Ripple    |
 |           |              |   | Gen       | Mana      |
 
-Justify the tools/structure of your solution
+Justify the tools/structure of my solution
 
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal).
