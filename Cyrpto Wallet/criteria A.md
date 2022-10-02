@@ -40,6 +40,12 @@ I will to design and make a ———— for a client who is ———. The —�
 
 Justify the tools/structure of my solution
 
+Python has the advantage of having offside rules applied. So I will use Python for my solution because it offers a variety of libraries that can help provide Sato-san with useful statistical management. Also, Python can perform tasks with fewer lines of code than other older languages, providing simplicity, readability, and ease of understanding for both the programmer and the person reading the program.
+
+Here is the structure of my solution.
+
+
+
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal).
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
