@@ -36,7 +36,7 @@ I will to design and make a ———— for a client who is ———. The —�
 | Krish     | UsdCoin      |   | Meisa     | Polkadot  |
 |           |              |   | Mayte     | Cosmos    |
 |           |              |   | Pop       | Ripple    |
-|           |              |   | Gen       | XRP       |
+|           |              |   | Gen       | Mana      |
 
 Justify the tools/structure of your solution
 
