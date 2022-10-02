@@ -72,7 +72,7 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 
 4.The electronic ledger can be accessed using a password.
 
-5.The electronic ledger is able to show the total amount of inventories.
+5.The electronic ledger is able to show diagram.
 
 6.The electronic ledger can display the last 10 transactions.
 
