@@ -43,7 +43,22 @@ Justify the tools/structure of my solution
 
 Python has the advantage of having offside rules applied. So I will use Python for my solution because it offers a variety of libraries that can help provide Sato-san with useful statistical management. Also, Python can perform tasks with fewer lines of code than other older languages, providing simplicity, readability, and ease of understanding for both the programmer and the person reading the program.
 
+
+
 Here is the structure of my solution.
+
+The main Python file can use the various functions written in the library Python file to read, append, and write database files. Writing these different functions separately makes it easier to modify specific files and makes the program more manageable. Also, the main Python file is not as large, and the structure is clearer and easier to read.
+
+
+I would choose mana as the cryptocurrency of choice for this solution.
+
+Mana is a virtual currency used within Decentraland but also as an NFT token on Ethereum.
+In 2021, the currency's price soared 60 times for a period of time, attracting the attention of many investors, but what are its characteristics?
+Manna has the following four characteristics　It is used as a place for economic activities as well as games
+VR space utilizing blockchain technology　NFTs earned can be used in other NFT games　Clear ownership of items
+Based on the above, we recommend MANA now that the growth potential of NFT is being touted.
+
+
 
 
 
