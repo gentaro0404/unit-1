@@ -63,9 +63,9 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 
 
 ## Success Criteria
-1. The electronic ledger is a text-based software (Runs in the Terminal).
-2. The electronic ledger display the basic description of the cyrptocurrency selected.
-3. The electronic ledger allows to enter, withdraw and record transactions.
-4.
-5.
-6.
+The digital ledger is text-based software (run in Pycharm's Terminal).
+The digital ledger displays a basic description of the selected cryptocurrency.
+The electronic ledger allows users to enter, withdraw, and record transactions.
+The electronic ledger can be accessed using a password.
+The electronic ledger is able to show the total amount of inventories.
+The electronic ledger can display the last 10 transactions.
