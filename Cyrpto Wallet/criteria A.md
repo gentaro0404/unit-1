@@ -15,7 +15,7 @@ An example of the data stored is
 ## Proposed Solution
 
 Design statement:
- I will design and make a digital ledger for a client who is Ms. Sato. Ms.Sato trades in cryptocurrency especially with Mana which is a digital coin in NFT games. The proposed digital ledger will store transactions regarding cryptocurrency and will be constructed using the language program called Python. It will take until Project Week to make and will be evaluated according to the criteria below.
+ I will design and make a digital ledger for a client who is Ms. Sato. Ms.Sato trades in cryptocurrency especially with MANA which is a digital coin in NFT games. The proposed digital ledger will store transactions regarding cryptocurrency and will be constructed using the language program called Python. It will take until Project Week to make and will be evaluated according to the criteria below.
 
 ** add a description of your coin and citation **
 | Group 1   |              |   | Group  2  |           |
@@ -37,7 +37,7 @@ Design statement:
 | Krish     | UsdCoin      |   | Meisa     | Polkadot  |
 |           |              |   | Mayte     | Cosmos    |
 |           |              |   | Pop       | Ripple    |
-|           |              |   | Gen       | Mana      |
+|           |              |   | Gen       | MANA     |
 
 Justify the tools/structure of my solution
 
@@ -50,13 +50,14 @@ Here is the structure of my solution.
 The main Python file can use the various functions written in the library Python file to read, append, and write database files. Writing these different functions separately makes it easier to modify specific files and makes the program more manageable. Also, the main Python file is not as large, and the structure is clearer and easier to read.
 
 
-I would choose mana as the cryptocurrency of choice for this solution.
+I would choose MANA as the cryptocurrency of choice for this solution.
 
-Mana is a virtual currency used within Decentraland but also as an NFT token on Ethereum.
-In 2021, the currency's price soared 60 times for a period of time, attracting the attention of many investors, but what are its characteristics?
-Manna has the following four characteristics　It is used as a place for economic activities as well as games
-VR space utilizing blockchain technology　NFTs earned can be used in other NFT games　Clear ownership of items
-Based on the above, we recommend MANA now that the growth potential of NFT is being touted.
+MANA is a virtual currency used within internet but also as an NFT token on Ethereum (virtual game).
+In 2021, the currency's price soared 60 times for a period of time, attracting the attention of many investors. 
+So what are the benefits to investing in this cryptocurrency?
+MANA has the following four characteristics such as being used as a place for economic activities, as well as games such as 
+VR space, utilizing blockchain technology　NFTs and can be earned and used in other NFT games despite different ownership of games.
+Based on the above, we recommend MANA now that the growth potential of NFT is being attempted to sell.
 
 
 
