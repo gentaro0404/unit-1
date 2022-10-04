@@ -96,5 +96,5 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 | 1       | Create system diagram      | To have a clear idea of the hardware and software requirements for the proposed solution | 10min         | Oct 2                 | B         |
 | 2       | Interview with the Client  | To discuss client's needs and define success criteria                                    | 5min          | Oct 2                 | A         |
 | 3       | Code the Menu              | To have menu items and title written on the screen                                       | 20min         | Oct 3                 | C         |
-| 4       | Code authentication system | A tested program to protect the application using a password with encryption             | 60min         | Oct 5                 | C         |
-| 5       | Code Main Functions        | A function base of the program                                                           | 4hrs          | oct 6                 | C         |
+| 4       | Code authentication system | A tested program to protect the application using a password with encryption             | 2hrs         | Oct 5                 | C         |
+| 5       | Code Main Functions        | A function base of the program                                                           | 6hrs          | oct 6                 | C         |
