@@ -78,5 +78,18 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 6.The electronic ledger can display the last 10 transactions of the client trading activity.
 
 
+# Criteria B: Design
+
+## System Diagram
 ![](CryptoWallet_SysD.jpeg)
 *Fig.1* **System diagram of this program**
+
+## Flow Diagrams
+
+
+## Record of Tasks
+| Task No | Planned Action             | Planned Outcome                                                                          | Time estimate | Target completion date | Criterion |
+|---------|----------------------------|------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Create system diagram      | To have a clear idea of the hardware and software requirements for the proposed solution | 10min         | Sep 22                 | B         |
+| 2       | Interview with the Client  | To discuss client's needs and define success criteria                                    | 5min          | Sep 23                 | A         |
+| 3       | Code the Menu              | To have menu items and title written on the screen                                       | 20min         | Sep 23 
