@@ -82,7 +82,7 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 
 ## System Diagram
 
-![](System Diagram.png)
+![](system_diagram.jpg)
 
 *Fig.1* **System diagram of this program**
 
