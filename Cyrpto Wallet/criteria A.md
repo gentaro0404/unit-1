@@ -77,3 +77,6 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 
 6.The electronic ledger can display the last 10 transactions of the client trading activity.
 
+
+![](CryptoWallet_SysD.jpeg)
+*Fig.1* **System diagram of this program**
