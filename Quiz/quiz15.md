@@ -24,5 +24,5 @@ print (open_doors(100))
 
 print (open_doors(100))
 ```
-![](quiz15.jpg)
+![](quiz15.png)
 
