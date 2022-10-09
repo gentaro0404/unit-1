@@ -102,4 +102,4 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 
 
 ## Video of program
-![](Video_of_program.mov)
+[Video of the Program](https://drive.google.com/file/d/1vfty-tJbYTxSx_o6OBgOkUf7lOCbrR8_/view?usp=sharing)
