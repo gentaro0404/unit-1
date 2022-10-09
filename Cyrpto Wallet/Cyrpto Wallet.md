@@ -98,3 +98,8 @@ Based on the above, we recommend MANA now that the growth potential of NFT is be
 | 3       | Code the Menu              | To have menu items and title written on the screen                                       | 20min         | Oct 3                 | C         |
 | 4       | Code authentication system | A tested program to protect the application using a password with encryption             | 2hrs         | Oct 5                 | C         |
 | 5       | Code Main Functions        | A function base of the program                                                           | 6hrs          | oct 6                 | C         |
+
+
+
+## Video of program
+![]()
