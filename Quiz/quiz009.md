@@ -18,5 +18,8 @@ for char in list(PLAIN):
 
 print(a)
 ```
-
+## Fig.1
 ![](quiz009.jpg)
+
+## Flowchart:
+
