@@ -20,7 +20,7 @@ def cipher(string):
 print(cipher(input("Enter string: ")))
 ```
 ## Fig.1
-![](quiz009.png)
+![](re:quiz009.png)
 
 ## Flowchart:
 
