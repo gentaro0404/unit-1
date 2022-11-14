@@ -2,6 +2,10 @@
 
 ## Create a function that shows the days of your birthday’s month for the year 2022.
 
+## program
+
+```.py
+
 def july():
     week =["Fr", "Sa", "Su", "Mo", "Tu", "We", "Th"]
     day = 0
