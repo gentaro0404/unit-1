@@ -13,6 +13,7 @@ HL: Create a function that shows number of doors that are open after N students 
 #Example: Input 10 returns 3
 #Example: Input 100 returns 10
 
+```.py
 def open_doors(n):
     doors = [False] * n
     for i in range(n):
@@ -26,5 +27,12 @@ print (open_doors(100))
 ```
 
 
+##  Code Structure
 ![](quiz_15.png)
+
+
+## Flow Chart:
+
+
+![]()
 
