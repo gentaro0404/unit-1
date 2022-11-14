@@ -3,20 +3,21 @@
 ## Create a function that receives as input a stering and reaturns the string ciphered with shift 13.
 
 ```.py
-PLAIN = "secret,-10"
+shift = int(input('Enter shift: '))
+def cipher(string):
+    string = string.lower()
+    new_string = ''
+    for letter in string:
+        if letter.isalpha():
+            if ord(letter) + shift > 122:
+                new_string += chr(ord(letter)+shift-26)
+            else:
+                new_string += chr(ord(letter)+shift)
+        else:
+            new_string += letter
+    return new_string
 
-KEY = 13
-
-a = ""
-
-for char in list(PLAIN):
-    ASCII = ord(char)
-    num = ASCII - 97
-    num = (num + KEY) % 26
-    ASCII = num + 97
-    a += chr(ASCII)
-
-print(a)
+print(cipher(input("Enter string: ")))
 ```
 ## Fig.1
 ![](quiz009.png)
