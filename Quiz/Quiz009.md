@@ -21,7 +21,7 @@ print(cipher(input("Enter string: ")))
 ```
 
 ## Fig.1
-![](re:quiz009.png)
+![](Quiz009_2.png)
 
 ## Flowchart:
-
+![](quiz009_flow.JPG)
