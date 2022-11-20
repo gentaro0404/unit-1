@@ -21,4 +21,4 @@ july()
 ![](quiz012.png)
 
 ## Flowchart:
-![](quiz012_flow.JPG)
+![](quiz012_flow.jpg)
