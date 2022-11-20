@@ -32,3 +32,4 @@ print(a)
 ![](quiz014.png)
 
 ## Flowchart:
+![](quiz014_flow.jpg)
