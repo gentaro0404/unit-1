@@ -21,4 +21,4 @@ while -12<=x<=15:
 ![](quiz010.png)
 
 ##Flowchart:
-![]()
+![](quiz010_flow.JPG)
