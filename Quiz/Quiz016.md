@@ -1,6 +1,6 @@
 # Quiz016
 
-## CCreate a function that produces the output given the input shown
+## Create a function that produces the output given the input shown
 
 ## program
 
@@ -33,4 +33,4 @@ for i in ["Hello World","aaaaAABB","abABabAB","Create a Function"]:
 ![](quiz016.png)
 
 ## Flowchart:
-![](quiz016_flow.JPG)
+![](quiz016_flow.jpg)
