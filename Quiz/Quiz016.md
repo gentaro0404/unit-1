@@ -33,3 +33,4 @@ for i in ["Hello World","aaaaAABB","abABabAB","Create a Function"]:
 ![](quiz016.png)
 
 ## Flowchart:
+![](quiz016_flow.JPG)
