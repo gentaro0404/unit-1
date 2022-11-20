@@ -46,5 +46,5 @@ print (case4, open_doors(case4))
 ## Flow Chart:
 
 
-![](quiz015_flow.JPG)
+![](quiz015_flow.jpg)
 
